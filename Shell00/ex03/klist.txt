@@ -1,0 +1,7 @@
+Credentials cache: API:4739
+        Principal: agonzale@42MADRID.COM
+
+  Issued                Expires               Principal
+Oct  3 10:43:01 2019  Oct  3 20:43:01 2019  krbtgt/42MADRID.COM@42MADRID.COM
+Oct  3 10:43:02 2019  Oct  3 20:43:01 2019  HTTP/student-storage.42madrid.com@42MADRID.COM
+Oct  3 10:47:13 2019  Oct  3 20:43:01 2019  host/vogsphere.42madrid.com@42MADRID.COM
